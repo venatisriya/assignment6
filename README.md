@@ -1,7 +1,7 @@
 # Assignment6
 ## Sriya Reddy
 
-In this assignment, the task was to create two matrices and perform addition and subtraction operations, followed by learning to use the `diag()` function in varous ways.
+In this assignment, the task was to create two matrices and perform addition and subtraction operations, followed by learning to use the `diag()` function in various ways.
 
 As instructed, I created two matrices of shape `2 x 2` using the following lines of code.
 ```
